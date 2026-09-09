@@ -41,5 +41,5 @@ This repository contains the complete source code and dataset.
 
 ## 👩‍💻 Author
 
-**M. Shailaja**  
-CSM (AI & ML)
+**Swetha Peddaevuram**  
+CSBS
